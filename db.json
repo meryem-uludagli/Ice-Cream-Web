@@ -1,0 +1,34 @@
+{
+  "ice-creams": [
+    {
+      "name": "Miel y Almendra",
+      "image": "/ice-1.png",
+      "price": 25.0
+    },
+    {
+      "name": "Tormenta de Chocolate",
+      "image": "/ice-2.png",
+      "price": 20.0
+    },
+    {
+      "name": "Sueños de Vainilla",
+      "image": "/ice-3.png",
+      "price": 22.5
+    },
+    {
+      "name": "Frescura de Mango",
+      "image": "/ice-4.png",
+      "price": 28.0
+    },
+    {
+      "name": "Ondas de Caramelo",
+      "image": "/ice-1.png",
+      "price": 32.0
+    },
+    {
+      "name": "Sueño de Pistacho",
+      "image": "/ice-3.png",
+      "price": 34.0
+    }
+  ]
+}
