@@ -21,7 +21,7 @@ const CartItem = ({ item }) => {
         <AmountPicker item={item} />
 
         <p className="text-lg md:text-xl text-end min-w-[70px] font-semibold text-gray-500">
-          {item.price * item.amount}₺
+          {item.price * item.amount}euro
         </p>
       </div>
     </div>
